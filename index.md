@@ -71,7 +71,7 @@ INTRODUCTION
 Edit the general explanatory paragraph below if you want to change
 the pitch.
 {% endcomment %}
-<strong>Registration:</strong> First priority will be given to NEI trainees and staff. If there are any available spots within a week of the workshop starting, then the NIH community will get the remaining spots. Please fill out <a href = "https://forms.gle/5dDoMHZf5TDqpR9x7">this form</a> to register. 
+<strong>Registration:</strong> First priority will be given to NEI trainees and staff. If there are any available spots within (approximately) two weeks of the workshop starting, then the NIH community will get the remaining spots. Please fill out <a href = "https://forms.gle/5dDoMHZf5TDqpR9x7">this form</a> to register. 
 {% if page.carpentry == "swc" %}
 {% include sc/intro.html %}
 {% elsif page.carpentry == "dc" %}
